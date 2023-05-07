@@ -9,7 +9,26 @@
     background-color: #886B00;
 }
 
+.navbar {
+    background-color: #021E42;
+}
+
+.nav-link{
+    color: #FFFFFF;
+}
+
+a.nav-link.active {
+    color: #FFFFFF !important;
+    font-weight: 700;
+  }
+
+
 /* Main */
+
+body {
+    background-color: #434D5A;
+   
+}
 
 .font-montserrat{
  font-family: "Montserrat", sans-serif;
@@ -40,6 +59,7 @@ h5{
 
 #footer{
     background-color: #021E42;
+    
 }
 #footer ul{
     font-size: 20px;
