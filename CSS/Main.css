@@ -15,6 +15,18 @@
 
 .nav-link{
     color: #FFFFFF;
+    border-radius: 2rem;
+}
+
+.nav-link:hover{
+    background-color: #434D5A !important;
+    color: #FFFFFF;
+}
+
+.nav-link:focus{
+    border-radius: 2rem;
+    background-color: #434D5A !important;
+    color: #FFFFFF;
 }
 
 a.nav-link.active {
