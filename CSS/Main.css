@@ -11,5 +11,19 @@
 
 /* Main */
 
+.font-montserrat{
+ font-family: "Montserrat", sans-serif;
+}
+.font-roboto{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
 
 /* Footer */
+
+#footer{
+    background-color: #021E42;
+}
+#footer ul{
+    font-size: 20px;
+}
