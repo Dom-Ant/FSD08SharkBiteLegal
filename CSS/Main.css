@@ -6,7 +6,7 @@
     margin-right: auto;
     color: #ffffff;
     border-radius: 2rem;
-    background-color: #886b00;
+    background-color: #886B00;
 }
 
 /* Main */
@@ -18,6 +18,23 @@
     font-family: 'Roboto Condensed', sans-serif;
 }
 
+/* content TEAM  */
+
+#title{
+    background-color: #434D5A;
+    color: #886B00;
+}
+
+#content ul li{
+    margin-bottom: 1.5rem;
+}
+#content{
+    background-color: #434D5A;
+    color:#FFFFFF
+}
+h5{
+ color: #886B00;
+}
 
 /* Footer */
 
@@ -26,4 +43,9 @@
 }
 #footer ul{
     font-size: 20px;
+}
+.line{
+    height: 5px;
+    background: #886B00;
+    margin-top: 2.5rem;
 }
