@@ -56,13 +56,16 @@ body {
 h2 {
     font-family: 'Montserrat', Verdana, Geneva, Tahoma, sans-serif;
     color: #FFFFFF;
+    margin: 1em;
+    font-size: 2em;
 }
 
 p {
     font-family: 'Roboto Condensed', Verdana, Geneva, Tahoma, sans-serif;
     color: #FFFFFF;
+    margin: 2em;
+    font-size: 1.1em;
 }
-
 
 
 .font-montserrat{
