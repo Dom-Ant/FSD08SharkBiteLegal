@@ -9,7 +9,7 @@
     background-color: #886B00;
 }
 
-.navbar {
+.navbar, header {
     background-color: #021E42;
 }
 
@@ -40,6 +40,10 @@ a.nav-link.active {
 body {
     background-color: #434D5A;
    
+}
+
+#cards img{
+    width: px;
 }
 
 .font-montserrat{
