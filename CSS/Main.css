@@ -88,6 +88,14 @@ h5{
  color: #886B00;
 }
 
+#partners{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+#partners i{
+    color: #021E42;
+    
+}
+
 /* Footer */
 
 #footer{
