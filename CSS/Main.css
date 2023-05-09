@@ -79,7 +79,27 @@ p {
 
 
 .contactTitles {
+    font-family: 'Roboto Condensed', sans-serif;
     color: #FFFFFF;
+}
+
+h4 {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #FFFFFF;
+    font-size: 28px; 
+}
+
+#sharkfinwhite {
+    
+    max-width: 35%;
+}
+
+.border-primary {
+    border-color: #021E42 !important;
+}
+
+.bg-border {
+    background-color:#021E42 !important;
 }
 
 /* Footer */
