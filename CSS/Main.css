@@ -50,7 +50,7 @@ a.nav-link.active {
 
 body {
     background-color: #434D5A;
-   
+    margin: 8px;
 }
 
 h2 {
@@ -87,6 +87,9 @@ p {
 #content{
     background-color: #434D5A;
     color:#FFFFFF
+}
+#content .row{
+    width: 100%;
 }
 h5{
  color: #886B00;
